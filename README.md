@@ -1,4 +1,4 @@
-# Zei-ScanIP
+# Zei-ScanIP ( UPDATE AU 50 STAR ! )
 
 Zei-ScanIP is an IP address scanning tool that allows you to detect open ports. This tool has been developed in Python and uses the Colorama library to enhance the display.
 
